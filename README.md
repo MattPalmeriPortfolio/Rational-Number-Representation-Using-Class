@@ -34,8 +34,14 @@ Written using Microsoft Visual Studio.
       1.5 (private) int numerator, denominator;
       1.6 (private) void normalize(); //normalizes the object so that if negative, the numerator is negative & the denominator
    2. Declare functions
+      2.1 Test conditionals: precondition: first and second are initialized RationalNumber objects, post condition: compares first and second with operators <, <=, >, >=, ==; outputs results to screen
+      2.2 Test equations: precondition: first and second are initialized RationalNumber objects postcondition: compares first and second with operators +, -, * and /
    3. Int Main
+      3.1 test constructors and i/o
+      3.2 test conditionals 
+      3.3 test equations
    4. Define Class Functions
+   5. Define Functions
     
 
 ## Requirements
